@@ -1,6 +1,6 @@
 {
   "name": "Hola Codespaces",
-  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "image": "mcr.microsoft.com/devcontainers/python:3.12",
   "forwardPorts": [8000],
-  "postCreateCommand": "echo 'Entorno Codespaces listo 👌'"
+  "postCreateCommand": "echo 'Entorno Codespaces listo con Python 👌'"
 }
