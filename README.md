@@ -72,18 +72,20 @@ Entra a <https://github.com> e inicia sesión con tu cuenta.
 
 ### 6️⃣ Guarda tus cambios en GitHub
 
-1.  Abre la pestaña de **Source Control** (icono de ramita en la barra
+1. Asegúrate de guardar tu index_[tu nombre].html dentro de la carpeta EVIDENCIAS.
+
+2.  Abre la pestaña de **Source Control** (icono de ramita en la barra
     izquierda).\
 
-2.  Escribe un mensaje de commit, por ejemplo:
+3.  Escribe un mensaje de commit, por ejemplo:
 
         Personalicé mi página Hola Mundo
 
-3.  Haz clic en ✔️ **Commit and Push** o selecciona "Commit & Push" en
+4.  Haz clic en ✔️ **Commit and Push** o selecciona "Commit & Push" en
     el menú superior.
 
-4.  Regresa a tu repositorio en GitHub (fuera del Codespace) y confirma
-    que tu archivo `index.html` tiene tus cambios.
+5.  Regresa a tu repositorio en GitHub (fuera del Codespace) y confirma
+    que tu archivo `index_[Tu nombre].html tiene tus cambios y está dentro de la carpeta EVIDENCIAS.
 
 ------------------------------------------------------------------------
 
